@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+body{
+    background-color: #E5E5E5;
+   
+}
+body .header {
+   
+    padding:10px;
+    max-width: 900px;
+    margin: auto;
+}
+body .products {
+   
+    padding:10px;
+    max-width: 900px;
+    min-height: 900px;
+    margin: auto;
+}
+body .orderdone, .register{
+   
+    padding:10px;
+    max-width: 900px;
+    margin: auto;
+}
+body .makeorder, .profile-box {
+   
+    padding:10px;
+    max-width: 900px;
+    margin: auto;
+}
